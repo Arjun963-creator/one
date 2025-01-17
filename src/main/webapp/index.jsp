@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Munna is a  - DevOps Engineer</h1>
+        <h1>Munna and Santosh are - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
